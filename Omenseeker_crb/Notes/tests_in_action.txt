@@ -1,0 +1,47 @@
+Example Situations: Tests in Action
+The following examples illustrate how Tests play out in a session:
+
+Example 1: Overcoming a Barrier
+Scene Context: The Seekers encounter a fallen tree blocking their path.
+
+Game Master: “The tree is massive and slick with rainwater. Moving it will require strength or ingenuity.”
+Location Truths: Slick Bark, Heavy Log.
+
+Player 1: “I’ll try to push the log aside using brute force.”
+Game Master: “Your Body Attribute and Force Approach apply. The Difficulty is 2 due to Heavy Log.”
+
+Player 2: “Can I assist by bracing the log with a lever?”
+Game Master: “Yes. Adding a lever creates a Levered Log Truth, lowering the Difficulty to 1. Roll your dice to assist.”
+
+Results:
+
+Player 1 succeeds, rolling two extra successes. They spend one Harmony to ask a question about the surroundings and bank the other for later use.
+
+Example 2: Evading a Pursuer
+Scene Context: The party is fleeing a pack of shadowy predators through dense woods.
+
+Game Master: “The woods are dark and tangled, making escape difficult.”
+Location Truths: Dense Underbrush, Low Visibility.
+Situation Truth: Relentless Hunters.
+
+Player 1: “I’ll try to lead the group through the underbrush.”
+Game Master: “The Difficulty is 3 due to Dense Underbrush and Low Visibility. Roll your Mind Attribute and Finesse Approach.”
+
+Player 2: “I’ll assist by breaking branches to mark a trail for the others.”
+Game Master: “Your assistance adds a die to Player 1’s roll but introduces a complication range of 2 due to noise possibly alerting the predators.”
+
+Results:
+
+Player 1 succeeds but rolls a complication. The GM introduces a Broken Compass Truth, leaving the group disoriented after escaping the immediate danger.
+
+Example 3: Contesting an Action
+Scene Context: A Seeker faces off against an enemy guard to grab a key.
+
+Game Master: “The guard notices you reaching for the key and moves to stop you.”
+Player: “I’ll use my Body Attribute and Finesse Approach to snatch it first!”
+Game Master: “The guard will roll their Body Attribute and Force Approach to block you. Their roll sets the Difficulty.”
+
+Guard Roll: Rolls three successes, setting the Difficulty to 3.
+Player Roll: Rolls four successes, winning the Contest.
+
+Game Master: “You grab the key before the guard reacts, generating one Harmony from the extra success.”
