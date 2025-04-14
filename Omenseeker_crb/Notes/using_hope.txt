@@ -1,0 +1,13 @@
+Example 1: Using Hope
+Scene Context: A Seeker faces a crumbling bridge and must leap across to escape an encroaching enemy.
+
+Player 1: "I jump across the gap!"
+Rolls their dice pool but falls short of the required successes.
+
+Player 1: "I’ll spend 1 Hope to reroll two dice and try again."
+Rerolls and succeeds with just enough to cross safely.
+
+Game Master: "Your leap lands you safely on the other side, but the bridge collapses behind you."
+
+
+
