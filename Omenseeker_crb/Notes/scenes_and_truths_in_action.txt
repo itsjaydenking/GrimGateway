@@ -1,0 +1,50 @@
+Example Situations: Scenes and Truths in Action
+Here are a few example situations to illustrate how these mechanics play out in a game:
+
+Situation 1: Scaling the Tower
+Scene Context: The Seekers arrive at a ruined tower to retrieve a forgotten artifact.
+
+Game Master: “The tower stands precariously, its upper levels swaying in the wind. The stonework is brittle, and a storm brews on the horizon.”
+Location Truths: Cracked Stone, Towering Heights, Approaching Storm.
+Situation Truth: Lightning Strikes.
+
+Player 1: “I want to climb the tower to reach the artifact.”
+Game Master: “Because the stone is cracked and lightning threatens the structure, it’s a Difficult Test. Add +1 to Difficulty for the unstable conditions.”
+
+Player 2: “Can I help by using my rope to secure Player 1’s climb?”
+Game Master: “Yes, your rope can add a beneficial Truth, Secured Rope, reducing the Difficulty by 1. Player 1, roll your dice.”
+
+Outcome: Player 1 successfully climbs but rolls a complication (a “1”).
+Game Master: “You make it to the top, but your grip loosens one of the stones, creating a Falling Debris Truth below.”
+
+Situation 2: Negotiating with a Bandit Leader
+Scene Context: The party encounters a bandit leader blocking their path.
+
+Game Master: “The bandit leader stands before you, flanked by two armed guards. His posture is tense, and his blade is drawn.”
+Location Truth: Narrow Pass.
+Situation Truths: Guarded Leader, Tense Atmosphere.
+Personal Truth (Bandit Leader): Wounded Pride.
+
+Player 1: “I’ll try to calm him down, appealing to his pride by complimenting his reputation.”
+Game Master: “Your words must cut through the tense atmosphere. Because of Wounded Pride, the Difficulty is lower, but a failure will escalate the situation.”
+
+Player 1 rolls: A success with two Harmony generated.
+Game Master: “The leader’s posture relaxes, and he gestures for his guards to lower their weapons. How would you like to use your Harmony?”
+
+Player 1: “I’ll spend one Harmony to create a new Truth: Amicable Terms. The second Harmony goes to the group pool.”
+
+Situation 3: Escaping a Collapsing Tunnel
+Scene Context: The group triggered a trap, and the tunnel is collapsing.
+
+Game Master: “Rocks tumble as the tunnel starts caving in. Dust fills the air, making it hard to see.”
+Location Truths: Narrow Space, Loose Rocks.
+Situation Truth: Rapid Collapse.
+
+Player 1: “I want to dodge through the debris to reach the exit.”
+Game Master: “With the combination of Narrow Space and Rapid Collapse, the Difficulty is 3. If you fail, you’ll take an Injury.”
+
+Player 2: “Can I spend Harmony from the group pool to create Clear Path?”
+Game Master: “Yes! The new Truth lowers the Difficulty to 2.”
+
+Outcome: Player 1 rolls, scoring just enough successes but also a complication.
+Game Master: “You make it out safely, but your bag snags on a rock, tearing open. You’ve lost your rations.”

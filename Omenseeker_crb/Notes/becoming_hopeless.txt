@@ -1,0 +1,10 @@
+Example 2: Becoming Hopeless
+Scene Context: A Seeker is repeatedly injured in a battle, spending Hope to avoid serious harm.
+
+Player 2: "I’ll spend 2 Hope to avoid the incoming blow."
+Runs out of Hope after this action.
+
+Game Master: "You’re now Hopeless. Your determination wavers, and despair sets in. Lock one Approach of your choice."
+
+
+

@@ -1,0 +1,11 @@
+Example 1: Spending Momentum
+Scene Context: The Seekers are fleeing through a forest during a storm, with shadowy figures pursuing them.
+
+Game Master: "The path ahead is muddy, with branches snagging at your clothes. The shadowy figures are closing in."
+
+Player 1: "I’ll use my Momentum to create a Truth: Hidden Trail. We notice a small path leading deeper into the woods."
+
+Game Master: "Good idea. You now have a Hidden Trail Truth, which will lower the Difficulty of navigating the terrain."
+
+Saving Momentum
+If a character doesn’t use their earned Momentum during a Test, it automatically moves to the group Momentum pool—unless the pool is full. This shared pool enhances group collaboration, allowing players to spend Momentum flexibly in future scenes.
