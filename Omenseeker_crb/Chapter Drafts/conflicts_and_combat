@@ -1,0 +1,208 @@
+Chapter 5: Facing Conflict and Combat
+Conflict in Light Omens RPG is where the stakes rise, and characters face challenges that test their mettle. This chapter explores the rules for managing combat, social encounters, and environmental challenges. It provides a flexible system to handle diverse scenarios while keeping gameplay engaging and strategic.
+
+Conflict: The Framework of Action
+Conflicts represent pivotal moments in the story, where choices carry significant consequences. These scenes may involve combat, social maneuvering, or survival challenges. The mechanics of conflict ensure clarity and allow players to feel empowered in shaping outcomes.
+
+Conflict Types:
+
+Physical: Battles, chases, and other bodily challenges.
+
+Social: Debates, negotiations, or mental duels.
+
+Environmental: Natural disasters, traps, or hazardous terrain.
+
+Action Order and Initiative
+Conflict is divided into Rounds and Turns to structure action while remaining dynamic.
+
+Choosing Action Order:
+
+The GM starts the first round by selecting who acts first.
+
+After taking a turn, a player selects the next character to act (who has not yet acted that round).
+
+The last character in a round selects who acts first in the next round. They may select themselves.
+
+Interrupting Action Order:
+
+A character may interrupt by spending 1 Harmony (or 2 Chaos for NPCs).
+
+This allows urgent actions but is a limited resource.
+
+Movement and Zones
+The battlefield is divided into Zones, abstract areas representing locations within the environment.
+
+Zone Mechanics:
+
+Movement: Characters may move 1 Zone as part of their turn. Moving an additional Zone costs 1 Harmony or adds +1 Difficulty to any action taken during the turn.
+
+Difficult Terrain: Entering certain Zones may require a Test or spending Harmony to proceed.
+
+Examples of Zones:
+
+A forest might include Zones such as Dense Trees, Clearing, and Ravine.
+
+A castle may have Zones like Main Hall, Balcony, and Throne Room.
+
+Combat within Zones:
+
+Melee Attacks: Targets must be in the same Zone.
+
+Ranged Attacks: Targets in adjacent Zones incur no penalties. Beyond one Zone, add +1 Difficulty per Zone.
+
+Combat Actions
+Characters take actions during their turns, categorized into four broad types:
+
+Advance and Attack:
+
+Use this action to harm or defeat an opponent.
+
+Requires a Test (if the target is defenseless) or a Contest (if the target can defend).
+
+Injury: A successful attack inflicts Injury based on the weapon or hazard.
+
+Evade and Endure:
+
+Focuses on surviving or avoiding harm.
+
+Use to resist hazards, environmental threats, or ongoing effects.
+
+Improvise and Interact:
+
+Creative actions to overcome challenges or solve problems unrelated to direct conflict.
+
+Example: Disabling traps, deciphering a puzzle mid-combat.
+
+Plan and Prepare:
+
+Introduce, alter, or remove a Truth in the scene.
+
+Requires a Difficulty 2 Test.
+
+Examples: Creating a Flammable Terrain Truth or removing a Frightened Truth from an ally.
+
+Weapons and Armor
+Weapons:
+
+Weapons determine the type and severity of Injuries inflicted.
+
+Each weapon has:
+
+Damage Rating: Base severity of the Injury (1–6).
+
+Range: Melee or Ranged (penalties apply for distance).
+
+Special Effects: Traits like Piercing (ignores armor) or Knockback (pushes targets).
+
+Example Weapon Table:
+
+Weapon Damage Rating Range Special Effects
+Unarmed Strike 1 Melee None
+Longsword 3 Melee None
+Bow 2 Ranged +1 Difficulty per Zone
+Crossbow 4 Ranged Requires a reload action.
+Armor:
+
+Reduces the amount of Hope needed to avoid an Injury.
+
+Protection Rating: Subtracts from the damage rating of an incoming attack.
+
+Sacrificing Armor: Armor can be destroyed to negate all effects of an Injury.
+
+Example Armor Table:
+
+Armor Protection Rating Special Effects
+Cloth Garments 1 None
+Chainmail 3 -1 Movement.
+Shield 2 May block ranged attacks.
+Injury and Defeat
+Injuries:
+
+Injuries are a type of Truth inflicted during combat or hazards.
+
+Severity ranges from minor (1) to catastrophic (6).
+
+Characters suffering Injury are considered Defeated, unable to act in the current scene.
+
+Avoiding Injury:
+
+Spend Hope: Equal to the Injury’s damage rating.
+
+Armor: Reduces Hope cost but requires at least 1 Hope to avoid damage.
+
+Sacrifice Armor: Destroy armor to avoid an Injury entirely.
+
+Defeat:
+
+A defeated character cannot act. Defeat may represent unconsciousness, paralysis, or other incapacitating effects.
+
+Healing Injuries
+First Aid: Stabilizes wounds but doesn’t remove them.
+
+Requires a Test with Difficulty = Injury’s Damage Rating.
+
+Treated Injuries count as temporary Truths.
+
+Rehabilitation: Fully removes Injuries.
+
+Requires 2 Long Rests per Damage Rating.
+
+Untreated Injuries worsen by +1 Damage Rating per Long Rest, generating 1 Chaos.
+
+Special Combat Mechanics
+Counters:
+
+A character successfully defending against an attack may spend 2 Harmony to counter, inflicting Injury on their attacker.
+
+Delaying the Inevitable:
+
+Characters with insufficient Hope may spend all remaining Hope to delay Injury until the scene’s end.
+
+Willing to Die:
+
+A character may declare their willingness to die, restoring all Hope but succumbing to any Injury that would Defeat them.
+
+Conflict Resolution: Non-Combat Challenges
+Non-combat conflicts use the same core mechanics, with a focus on creativity and strategy.
+
+Examples of Non-Combat Challenges:
+
+Scenario Conflict Type Approaches
+Negotiating with a noble Social Soul (Finesse) for diplomacy.
+Navigating a collapsing cave Environmental Body (Focus) for endurance.
+Deciphering an ancient script Mental Mind (Finesse) for decoding.
+Using Approaches in Conflict
+Force: Direct action.
+
+Example: Breaking down a door to escape (Body + Force).
+
+Finesse: Precision and skill.
+
+Example: Sneaking past a patrol (Body + Finesse).
+
+Focus: Patience and resilience.
+
+Example: Withstanding interrogation (Soul + Focus).
+
+Examples of Conflict in Play
+Example 1: Combat—Surviving a Bandit Ambush
+
+A group of Seekers faces bandits in a forest.
+
+Zone Mechanics: Dense Forest (Difficult Terrain), Open Clearing.
+
+Approach: Player 1 uses Finesse to climb a tree for a ranged attack. Player 2 defends with Focus.
+
+Example 2: Social Duel—Convincing a Council
+
+The group must persuade a council to grant aid.
+
+Approach: Player 1 uses Soul + Finesse for charm, while Player 2 employs Mind + Focus to present evidence.
+
+Outcome: Success introduces a Favorable Outcome Truth.
+
+Example 3: Environmental—Crossing a Chasm
+
+The Seekers must traverse a rope bridge while under fire.
+
+Approach: Player 1 uses Body + Focus to stabilize the bridge; Player 2 uses Body + Finesse to dodge falling debris.
