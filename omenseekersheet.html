@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Light Omens: Character Sheet</title>
+
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 2rem;
+      }
+      section {
+        margin-bottom: 2rem;
+      }
+      label {
+        display: block;
+        margin-top: 0.5rem;
+      }
+      input[type="text"],
+      input[type="number"],
+      textarea {
+        width: 100%;
+        padding: 0.5rem;
+        margin-top: 0.2rem;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Return to the <a href="index.html">Grim Gateway</a></p>
+
+    <h1>Light Omens Character Sheet</h1>
+
+    <section>
+      <h2>Legend Info</h2>
+      <div class="grid">
+        <label>Character Name <input type="text" name="characterName" /></label>
+        <label>Origin <input type="text" name="origin" /></label>
+        <label>Archetype <input type="text" name="archetype" /></label>
+        <label>Tendency <input type="text" name="tendency" /></label>
+        <label
+          >Technique Level
+          <input type="number" name="technique" min="0" max="6"
+        /></label>
+      </div>
+    </section>
+
+    <section>
+      <h2>Attributes</h2>
+      <div class="grid">
+        <label>Body <input type="number" name="body" min="1" max="6" /></label>
+        <label>Mind <input type="number" name="mind" min="1" max="6" /></label>
+        <label>Soul <input type="number" name="soul" min="1" max="6" /></label>
+      </div>
+    </section>
+
+    <section>
+      <h2>Approaches</h2>
+      <div class="grid">
+        <label
+          >Force <input type="number" name="force" min="0" max="4"
+        /></label>
+        <label
+          >Finesse <input type="number" name="finesse" min="0" max="4"
+        /></label>
+        <label
+          >Focus <input type="number" name="focus" min="0" max="4"
+        /></label>
+      </div>
+      <div class="grid">
+        <label><input type="checkbox" name="weakened" /> Weakened</label>
+        <label><input type="checkbox" name="clumsy" /> Clumsy</label>
+        <label><input type="checkbox" name="distracted" /> Distracted</label>
+      </div>
+    </section>
+
+    <section>
+      <h2>Specialties</h2>
+      <div class="grid">
+        <label
+          >Brutal (Body+Force)
+          <input type="number" name="brutal" min="0" max="6"
+        /></label>
+        <label
+          >Rational (Mind+Force)
+          <input type="number" name="rational" min="0" max="6"
+        /></label>
+        <label
+          >Candid (Soul+Force)
+          <input type="number" name="candid" min="0" max="6"
+        /></label>
+        <label
+          >Nimble (Body+Finesse)
+          <input type="number" name="nimble" min="0" max="6"
+        /></label>
+        <label
+          >Insightful (Mind+Finesse)
+          <input type="number" name="insightful" min="0" max="6"
+        /></label>
+        <label
+          >Tactful (Soul+Finesse)
+          <input type="number" name="tactful" min="0" max="6"
+        /></label>
+        <label
+          >Durable (Body+Focus)
+          <input type="number" name="durable" min="0" max="6"
+        /></label>
+        <label
+          >Deliberate (Mind+Focus)
+          <input type="number" name="deliberate" min="0" max="6"
+        /></label>
+        <label
+          >Tranquil (Soul+Focus)
+          <input type="number" name="tranquil" min="0" max="6"
+        /></label>
+      </div>
+    </section>
+
+    <section>
+      <h2>Hope, Resources, Experience</h2>
+      <div class="grid">
+        <label>Hope (Current) <input type="number" name="hopeCurrent" /></label>
+        <label>Hope (Max) <input type="number" name="hopeMax" /></label>
+        <label
+          >Resource (Current) <input type="number" name="resourceCurrent"
+        /></label>
+        <label
+          >Resource (Baseline) <input type="number" name="resourceBase"
+        /></label>
+        <label
+          >Experience (Current) <input type="number" name="experienceCurrent"
+        /></label>
+        <label
+          >Experience (Total) <input type="number" name="experienceTotal"
+        /></label>
+      </div>
+    </section>
+
+    <section>
+      <h2>Bonds</h2>
+      <div class="grid">
+        <label><input type="checkbox" name="bond1Friend" /> Friendship</label>
+        <label><input type="checkbox" name="bond1Rival" /> Rivalry</label>
+        <label><input type="checkbox" name="bond2Friend" /> Friendship</label>
+        <label><input type="checkbox" name="bond2Rival" /> Rivalry</label>
+        <label><input type="checkbox" name="bond3Friend" /> Friendship</label>
+        <label><input type="checkbox" name="bond3Rival" /> Rivalry</label>
+      </div>
+    </section>
+
+    <section>
+      <h2>Goals & Motivations</h2>
+      <label>Short Term Goals <textarea name="shortGoals"></textarea></label>
+      <label>Long Term Goals <textarea name="longGoals"></textarea></label>
+      <label>Archetype Goal <textarea name="archetypeGoal"></textarea></label>
+      <label>Tendency Drive <textarea name="drive"></textarea></label>
+      <label>Tendency Flaw <textarea name="flaw"></textarea></label>
+    </section>
+
+    <section>
+      <h2>Abilities & Equipment</h2>
+      <label>Abilities & Talents <textarea name="abilities"></textarea></label>
+      <label>Equipment <textarea name="equipment"></textarea></label>
+      <label>Current Wealth <input type="number" name="wealth" /></label>
+    </section>
+  </body>
+</html>
